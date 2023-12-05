@@ -38,3 +38,7 @@ footer {
 .container p {
     text-align: center;
 }
+
+.container .insta {
+    cursor: pointer;
+}
